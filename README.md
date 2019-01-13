@@ -34,10 +34,10 @@ Sync sources (it may require some hours)
  - repo sync -c -f -q -j8 --force-sync --no-clone-bundle --no-tags --optimized-fetch --prune
 
 ## Clone necessary trees
- - git clone https://github.com/ALGPHELLO/android_device_samsung_grandpplte device/samsung/grandpplte
- - git clone https://github.com/ALGPHELLO/android_device_mediatek_mt6737-common device/mediatek/mt6737-common
- - git clone https://github.com/ALGPHELLO/proprietary_vendor_samsung vendor/samsung/grandpplte
- - git clone https://github.com/ALGPHELLO/android_kernel_samsung_grandpplte kernel/samsung/grandpplte
+ - git clone https://github.com/HB72K/android_device_samsung_grandpplte device/samsung/grandpplte
+ - git clone https://github.com/HB72K/android_device_mediatek_mt6737-common device/mediatek/mt6737-common
+ - git clone https://github.com/HB72K/proprietary_vendor_samsung vendor/samsung/grandpplte
+ - git clone https://github.com/HB72K/android_kernel_samsung_grandpplte kernel/samsung/grandpplte
 
 ## Building Source
 
